@@ -1,0 +1,4 @@
+FUNCTION-POOL YFUGR_STANDARD_INCLUDE.       "MESSAGE-ID ..
+
+* INCLUDE LYFUGR_STANDARD_INCLUDED...        " Local class definition
+INCLUDE mmmgtrbb.
